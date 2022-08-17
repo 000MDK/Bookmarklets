@@ -1,5 +1,6 @@
 # Bookmarklets
-JS/HTML bookmarklets - code from all over the web
+
+JS/HTML bookmarklets
 
 1. Add new bookmark
 2. paste file-content as link
