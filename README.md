@@ -14,13 +14,13 @@ Click anywhere in the canvas to go fullscreen
 
 raining green code
 
-[likely the origin of the code](https://angularfixing.com/how-to-make-javascript-raining-matrix-code-as-a-background-of-the-website/)
+[likely the origin of the code](https://angularfixing.com/how-to-make-javascript-raining-matrix-code-as-a-background-of-the-website/) - modified for bookmark/fullscreen usage and optimized
 
 ### flysim22.bookmarklet
 
 Fly Simulator 2022 - adjust browser-zoom level for increased realism
 
-[likely the origin of the code](https://www.terrybutler.co.uk/2021/08/17/animated-fly-cursor-for-cats/)
+[likely the origin of the code](https://www.terrybutler.co.uk/2021/08/17/animated-fly-cursor-for-cats/) - modified for bookmark/fullscreen usage and optimized
 
 
 ## Tools
