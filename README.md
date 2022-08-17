@@ -3,7 +3,7 @@
 JS/HTML bookmarklets
 
 1. Add new bookmark
-2. paste file-content as link
+2. paste file-content as link (view a bookmarklet and use the "copy raw content"-button)
 
 
 ## Fullscreen
