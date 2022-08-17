@@ -1,0 +1,1 @@
+javascript:c=new AudioContext(),v=document.getElementsByTagName('video'),a=c.createMediaElementSource(v[0]);c.destination.channelCount=1;a.connect(c.destination);void(null);
