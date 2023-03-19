@@ -41,6 +41,6 @@ CamelCamelCamel pricewatch tool
 
 ### turn down for what
 
-doubles a mono audiostream for stereo-output
+makes the current site dance to the song
 
-[source](https://nthitz.github.io/turndownforwhatjs/)
+[link](https://nthitz.github.io/turndownforwhatjs/)
