@@ -32,3 +32,15 @@ is executed in the context of the selected tab when clicked
 doubles a mono audiostream for stereo-output
 
 [likely the origin of the code](https://www.reddit.com/user/AudioContext/)
+
+### camelet
+
+CamelCamelCamel pricewatch tool
+
+[link](https://de.camelcamelcamel.com/tools/bookmarklet)
+
+### turn down for what
+
+doubles a mono audiostream for stereo-output
+
+[source](https://nthitz.github.io/turndownforwhatjs/)
