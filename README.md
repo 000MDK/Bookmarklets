@@ -1,6 +1,6 @@
-# [Bookmarklets](https://wikipedia.org/wiki/Bookmarklet)
+# Bookmarklets
 
-JS/HTML bookmarklets
+JS/HTML [bookmarklets](https://wikipedia.org/wiki/Bookmarklet)
 
 Open one of the bookmarklets here and use the "copy raw content"-button (github), then
 1. create/add new bookmark (browser)
@@ -8,7 +8,7 @@ Open one of the bookmarklets here and use the "copy raw content"-button (github)
 3. chose a name to your liking and save
 4. click bookmark to use it
 
-[Here](https://mreidsma.github.io/bookmarklets/installing.html) are more detailed instructions not by me.
+[Here](https://mreidsma.github.io/bookmarklets/installing.html) are more detailed instructions for the general use case, made by [mreidsma]https://mreidsma.github.io/bookmarklets/)
 
 ## Fullscreen
 
