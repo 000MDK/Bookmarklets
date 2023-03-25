@@ -10,13 +10,13 @@ JS/HTML bookmarklets
 
 Click anywhere in the canvas to go fullscreen
 
-### whiterabbit.bookmarklet
+### [whiterabbit.bookmarklet](https://github.com/000MDK/Bookmarklets/Fullscreen/whiterabbit.bookmarklet)
 
 raining green code
 
 [likely the origin of the code](https://angularfixing.com/how-to-make-javascript-raining-matrix-code-as-a-background-of-the-website/) - modified for bookmark/fullscreen usage and optimized
 
-### flysim22.bookmarklet
+### [flysim22.bookmarklet](https://github.com/000MDK/Bookmarklets/Fullscreen/flysim22.bookmarklet)
 
 Fly Simulator 2022 - adjust browser-zoom level for increased realism
 
@@ -27,13 +27,13 @@ Fly Simulator 2022 - adjust browser-zoom level for increased realism
 
 is executed in the context of the selected tab when clicked
 
-### rapidsave.bookmarklet / redditsave.bookmarklet
+### [rapidsave.bookmarklet / redditsave.bookmarklet](https://github.com/000MDK/Bookmarklets/Tools/rapidsave.bookmarklet)
 
-redirects your open reddit-page to rapidsave/redditsave
+redirects your open reddit-page to rapidsave
 
 [unddit bookmarklet used as starting point](https://www.unddit.com/)
 
-### turn down for what
+### [turn down for what](https://github.com/000MDK/Bookmarklets/Tools/turndownforwhat.bookmarklet)
 
 makes the current site dance to the song
 
@@ -41,19 +41,19 @@ modified so the only external source is youtube
 
 [orginal link](https://nthitz.github.io/turndownforwhatjs/)
 
-### mono2stereo.bookmarklet
+### [mono2stereo.bookmarklet](https://github.com/000MDK/Bookmarklets/Tools/mono2stereo.bookmarklet)
 
 doubles a mono audiostream for stereo-output
 
 [likely the origin of the code](https://www.reddit.com/user/AudioContext/)
 
-### unddit
+### [unddit](https://www.unddit.com/)
 
 redirects your open reddit-page to unddit
 
 [link](https://www.unddit.com/)
 
-### camelet
+### [camelet](https://de.camelcamelcamel.com/tools/bookmarklet)
 
 CamelCamelCamel pricewatch tool
 
