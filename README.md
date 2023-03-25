@@ -33,7 +33,7 @@ redirects your open reddit-page to rapidsave
 
 [unddit bookmarklet used as starting point](https://www.unddit.com/)
 
-### [turn down for what](https://github.com/000MDK/Bookmarklets/Tools/turndownforwhat.bookmarklet)
+### [turndownforwhat.bookmarklet](https://github.com/000MDK/Bookmarklets/Tools/turndownforwhat.bookmarklet)
 
 makes the current site dance to the song
 
