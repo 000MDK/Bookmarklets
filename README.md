@@ -1,13 +1,14 @@
-# Bookmarklets
+# [Bookmarklets](https://wikipedia.org/wiki/Bookmarklet)
 
 JS/HTML bookmarklets
 
-In your browser:
-1. Add new bookmark
-2. paste file-content/first line as url (view a bookmarklet and use the "copy raw content"-button)
-3. chose name to your liking and save
-4. click bookmark
+Open one of the bookmarklets here and use the "copy raw content"-button (github), then
+1. create/add new bookmark (browser)
+2. paste in URL-box
+3. chose a name to your liking and save
+4. click bookmark to use it
 
+[Here](https://mreidsma.github.io/bookmarklets/installing.html) are more detailed instructions not by me.
 
 ## Fullscreen
 
