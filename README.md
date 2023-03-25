@@ -33,7 +33,7 @@ Note: too big for chrome bookmark-sync as of now
 
 is executed in the context of the selected tab when clicked
 
-### [unhingedmode.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/unhingedmode.bookmarklet)
+### [🤡.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/🤡.bookmarklet)
 
 changes all fonts on page to Comic Sans MS - you know you want it, taste is overrated anyways.
 
