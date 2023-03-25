@@ -27,11 +27,23 @@ Fly Simulator 2022 - adjust browser-zoom level for increased realism
 
 is executed in the context of the selected tab when clicked
 
+### rapidsave.bookmarklet / redditsave.bookmarklet
+
+redirects your open reddit-page to rapidsave/redditsave
+
+[unddit bookmarklet used as starting point](https://www.unddit.com/)
+
 ### mono2stereo.bookmarklet
 
 doubles a mono audiostream for stereo-output
 
 [likely the origin of the code](https://www.reddit.com/user/AudioContext/)
+
+### unddit
+
+redirects your open reddit-page to unddit
+
+[link](https://www.unddit.com/)
 
 ### camelet
 
