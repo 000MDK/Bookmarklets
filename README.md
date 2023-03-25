@@ -14,13 +14,13 @@ Open one of the bookmarklets here and use the "copy raw content"-button (github)
 
 Click anywhere in the canvas to go fullscreen
 
-### [whiterabbit.bookmarklet](https://github.com/000MDK/Bookmarklets/Fullscreen/whiterabbit.bookmarklet)
+### [whiterabbit.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Fullscreen/whiterabbit.bookmarklet)
 
 raining green code
 
 [likely the origin of the code](https://angularfixing.com/how-to-make-javascript-raining-matrix-code-as-a-background-of-the-website/) - modified for bookmark/fullscreen usage and optimized
 
-### [flysim22.bookmarklet](https://github.com/000MDK/Bookmarklets/Fullscreen/flysim22.bookmarklet)
+### [flysim22.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Fullscreen/flysim22.bookmarklet)
 
 Fly Simulator 2022 - adjust browser-zoom level for increased realism
 
@@ -33,13 +33,13 @@ Note: too big for chrome bookmark-sync as of now
 
 is executed in the context of the selected tab when clicked
 
-### [rapidsave.bookmarklet / redditsave.bookmarklet](https://github.com/000MDK/Bookmarklets/Tools/rapidsave.bookmarklet)
+### [rapidsave.bookmarklet / redditsave.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/rapidsave.bookmarklet)
 
 redirects your open reddit-page to rapidsave
 
 [unddit bookmarklet used as starting point](https://www.unddit.com/)
 
-### [turndownforwhat.bookmarklet](https://github.com/000MDK/Bookmarklets/Tools/turndownforwhat.bookmarklet)
+### [turndownforwhat.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/turndownforwhat.bookmarklet)
 
 makes the current site dance to the song
 
@@ -47,7 +47,7 @@ modified so the only external source is youtube
 
 [orginal link](https://nthitz.github.io/turndownforwhatjs/)
 
-### [mono2stereo.bookmarklet](https://github.com/000MDK/Bookmarklets/Tools/mono2stereo.bookmarklet)
+### [mono2stereo.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/mono2stereo.bookmarklet)
 
 doubles a mono audiostream for stereo-output
 
