@@ -2,8 +2,11 @@
 
 JS/HTML bookmarklets
 
+In your browser:
 1. Add new bookmark
-2. paste file-content as link (view a bookmarklet and use the "copy raw content"-button)
+2. paste file-content/first line as url (view a bookmarklet and use the "copy raw content"-button)
+3. chose name to your liking and save
+4. click bookmark
 
 
 ## Fullscreen
@@ -19,6 +22,8 @@ raining green code
 ### [flysim22.bookmarklet](https://github.com/000MDK/Bookmarklets/Fullscreen/flysim22.bookmarklet)
 
 Fly Simulator 2022 - adjust browser-zoom level for increased realism
+
+Note: too big for chrome bookmark-sync as of now
 
 [likely the origin of the code](https://www.terrybutler.co.uk/2021/08/17/animated-fly-cursor-for-cats/) - modified for bookmark/fullscreen usage and optimized
 
