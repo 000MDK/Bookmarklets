@@ -33,6 +33,10 @@ Note: too big for chrome bookmark-sync as of now
 
 is executed in the context of the selected tab when clicked
 
+### [12ftio.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/12ftio.bookmarklet)
+
+anti-PW for articles on certain pages using 12ft.io
+
 ### [🤡.bookmarklet](https://github.com/000MDK/Bookmarklets/blob/main/Tools/🤡.bookmarklet)
 
 changes all fonts on page to Comic Sans MS - you know you want it, taste is overrated anyways.
